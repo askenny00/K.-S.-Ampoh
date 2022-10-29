@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @askenny00
-- 👀 I’m interested in python programming language and its use in numerical analysis and codin mathematical problems like partial differential equations...
-- 🌱 I’m currently learning pythons various modules for mathematical operations...
-- 💞️ I’m looking to collaborate on works involving coding of math models...
+- 👀 I’m interested in python programming language and its use in numerical analysis and machine learning
+- 🌱 I’m currently learning pythons various modules for mathematical operations..and phython machine learning libraries lik
+- 
 - 
 
 <!---
