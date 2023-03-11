@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @askenny00
 - 👀 I’m interested in python programming language and its use in numerical analysis and machine learning
-- 🌱 I’m currently learning pythons various modules for mathematical operations..and phython machine learning libraries lik
+- 🌱 I’m currently learning pythons various modules for mathematical operations..and phython machine learning libraries like Torch, JAX and sklearn.
+I am figuring out what GitHub is and how to use it
 - 
 - 
 
