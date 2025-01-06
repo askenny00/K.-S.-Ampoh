@@ -1,5 +1,5 @@
 - 👋 Hi, I’m K. S. Ampoh
-- 👀 I’m interested in python programming language and its in computational tasks
+- 👀 I’m interested in python programming language and its use in computational tasks
 - 🌱 
 - 
 - 
